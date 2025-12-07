@@ -27,7 +27,7 @@ O conceito central é analisar e limpar os dados brutos através de um processo 
 | **Linguagem** | Python | Linguagem principal para o desenvolvimento. |
 | **Manipulação de Dados** | **Pandas** | Leitura, limpeza, transformação e *merge* dos dados. |
 | **Requisições Web** | **Requests** | Comunicação HTTP para extrair dados da `OMDB API`. |
-| **Visualização** | **Seaborn** e **Matplotlib** | Criação de gráficos e *plots* informativos. |
+| **Visualização** | **Seaborn** e **Matplotlib** | Criação do gráficos de *histograma*. |
 | **Estrutura** | **Venv** | Gerenciamento isolado das dependências do projeto. |
 
 ---
