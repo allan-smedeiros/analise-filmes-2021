@@ -49,11 +49,6 @@ O código foi estruturado em módulos para separar as responsabilidades:
 * `main.py`: Script principal que orquestra o *pipeline* de ETL e análise (lógica de alto nível).
 * `functions.py`: Módulo que armazena todas as funções reutilizáveis, como a chamada à API e as rotinas de limpeza (lógica de baixo nível).
 
-**Estrutura do Repositório:**
-
-nome-do-seu-projeto/ ├── .venv/ # Ambiente virtual isolado ├── data/ │ └── imdb_top_250_movies.csv # Arquivo de dados de entrada ├── src/ │ ├── main.py # Orquestrador do ETL. │ └── functions.py # Módulo de funções. ├── requirements.txt # Dependências do projeto. └── README.md # Documentação principal.
-
-
 ---
 
 ### 📚 Fontes de Dados e API
